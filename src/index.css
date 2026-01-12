@@ -1,1 +1,6 @@
 /* Le css qu'on appliquera ici ça sera pour tout les composants pages */
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes :
+    coffee
+};
